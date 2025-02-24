@@ -11,6 +11,7 @@ A simple Fees Receipt Managing System designed to help educational institutions 
 - Faculty can view and Download receipts
 - Fee Receipt Management
 - User Authentication
+- Admin
 
 ## Technologies Used
 
